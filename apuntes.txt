@@ -1,0 +1,2 @@
+COMANDOS:
+    NG SERVE: Arranca el servidor
